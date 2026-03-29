@@ -9,4 +9,4 @@ Technologies Used:
 Python
 Sqlite
 How to Run:
-Clone the respository, open the folder and Run: python main.py
+Clone the respository, open the folder and Run: python main.py.
